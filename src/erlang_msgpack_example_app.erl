@@ -1,9 +1,9 @@
 %%%-------------------------------------------------------------------
-%% @doc erlang-msgpack-example public API
+%% @doc erlang_msgpack_example public API
 %% @end
 %%%-------------------------------------------------------------------
 
--module(erlang-msgpack-example_app).
+-module(erlang_msgpack_example_app).
 
 -behaviour(application).
 
@@ -15,7 +15,7 @@
 %%====================================================================
 
 start(_StartType, _StartArgs) ->
-    erlang-msgpack-example_sup:start_link().
+    erlang_msgpack_example_sup:start_link().
 
 %%--------------------------------------------------------------------
 stop(_State) ->

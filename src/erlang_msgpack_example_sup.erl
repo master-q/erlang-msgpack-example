@@ -1,9 +1,9 @@
 %%%-------------------------------------------------------------------
-%% @doc erlang-msgpack-example top level supervisor.
+%% @doc erlang_msgpack_example top level supervisor.
 %% @end
 %%%-------------------------------------------------------------------
 
--module(erlang-msgpack-example_sup).
+-module(erlang_msgpack_example_sup).
 
 -behaviour(supervisor).
 
