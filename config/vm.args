@@ -1,0 +1,6 @@
+-sname erlang_msgpack_example
+
+-setcookie erlang_msgpack_example_cookie
+
++K true
++A30
