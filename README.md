@@ -6,4 +6,4 @@ An OTP application using msgpack.
 Build
 -----
 
-    $ rebar3 compile
+    $ rebar3 release
